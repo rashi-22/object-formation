@@ -4,4 +4,4 @@
 ```bash
 $ node index.js
 ```
-# output in shown in console
+# output is shown in console
